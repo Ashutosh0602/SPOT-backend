@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { CreateNearestDto } from './dto/create-nearest.dto';
 import { UpdateNearestDto } from './dto/update-nearest.dto';
+import Redis from "ioredis"
 
 @Injectable()
 export class NearestService {

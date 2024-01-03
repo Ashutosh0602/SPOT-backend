@@ -1,4 +1,4 @@
-import { IsBoolean, IsIn, IsMongoId, IsNotEmpty, IsNumber, IsOptional, IsString, MaxLength } from "class-validator";
+import { IsBoolean, IsDefined, IsIn, IsMongoId, IsNotEmpty, IsNumber, IsOptional, IsString, MaxLength } from "class-validator";
 
 export class CreateRegisterDto {
     @IsString()
@@ -35,15 +35,14 @@ export class CreateRegisterDto {
     // @IsNotEmpty()
     // readonly price:number;
 
-    @IsMongoId()
+    @IsDefined()
     @IsNotEmpty()
-    @IsOptional()
     readonly UserID:string;
 
-    // @IsBoolean()
-    // @IsNotEmpty()
-    // @IsIn([true, false])
-    // readonly status: boolean;
+    @IsString()
+    @IsNotEmpty()
+    @IsIn(["true", "false"])
+    readonly status: string;
 
     readonly file:any;
 }
