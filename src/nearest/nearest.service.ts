@@ -1,16 +1,21 @@
-import { Injectable } from '@nestjs/common';
+import { Inject, Injectable } from '@nestjs/common';
 import { CreateNearestDto } from './dto/create-nearest.dto';
 import { UpdateNearestDto } from './dto/update-nearest.dto';
 import Redis from "ioredis"
 
 @Injectable()
 export class NearestService {
+  @Inject('REDIS_CLIENT') private redis: Redis
+
+
+
   create(createNearestDto: CreateNearestDto) {
     return 'This action adds a new nearest';
   }
 
-  findAll() {
-    return `This action returns all nearest`;
+  async findAll() {
+    const get=this.redis.get('ping')
+    return get;
   }
 
   findOne(id: number) {

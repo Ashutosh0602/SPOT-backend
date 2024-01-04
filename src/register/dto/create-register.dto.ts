@@ -31,9 +31,9 @@ export class CreateRegisterDto {
     @IsIn(['petrol', 'diesel', 'electric', 'hybrid'])
     readonly engine: string;
 
-    // @IsNumber()
-    // @IsNotEmpty()
-    // readonly price:number;
+    @IsString()
+    @IsNotEmpty()
+    readonly price:string;
 
     @IsDefined()
     @IsNotEmpty()
