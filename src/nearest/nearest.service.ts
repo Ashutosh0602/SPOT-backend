@@ -24,7 +24,7 @@ export class NearestService {
     
     //   console.log(reply);
     // })
-    const get= await client.geodist('Ashutosh','aiushi quiboai we', 'Vijay vihar')
+    const get= await client.geosearch('Ashutosh','FROMLONLAT', 35.233532,21.23434,'BYRADIUS',4000, "km", "ASC", 'WITHCOORD',  'WITHDIST')
     // const get=await client.geoadd('Dheeraj',21.23434, 35.233532, 'Vijay Vihar');
     return get;
   }
@@ -41,3 +41,26 @@ export class NearestService {
     return `This action removes a #${id} nearest`;
   }
 }
+
+
+// // Import the functions you need from the SDKs you need
+// import { initializeApp } from "firebase/app";
+// import { getAnalytics } from "firebase/analytics";
+// // TODO: Add SDKs for Firebase products that you want to use
+// // https://firebase.google.com/docs/web/setup#available-libraries
+
+// // Your web app's Firebase configuration
+// // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// const firebaseConfig = {
+//   apiKey: "AIzaSyDu3oeBzE6RA58e2T629Nmx2cwlT1NhQhw",
+//   authDomain: "spot-dfe33.firebaseapp.com",
+//   projectId: "spot-dfe33",
+//   storageBucket: "spot-dfe33.appspot.com",
+//   messagingSenderId: "550574198799",
+//   appId: "1:550574198799:web:106990b32b3bdaa48d537a",
+//   measurementId: "G-TCL33DL3WX"
+// };
+
+// // Initialize Firebase
+// const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);
