@@ -1,5 +1,11 @@
 # SPOT
-![WhatsApp Image 2024-01-06 at 16 03 14](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/26f4ee45-f54c-4c46-9bc6-213e6df6758e) ![WhatsApp Image 2024-01-06 at 16 03 15 (2)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/435d3bc3-dee0-407c-9ff5-510d8a2d9aae) ![WhatsApp Image 2024-01-06 at 16 03 16 (1)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/b601152b-aa56-48be-827b-7050483663b2)
+<table>
+  <tr>
+    <td valign="top"> ![WhatsApp Image 2024-01-06 at 16 03 14](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/caa9c233-4a2b-4fcf-b60e-0671378a10ae) </td>
+    <td valign="top"> ![WhatsApp Image 2024-01-06 at 16 03 15 (2)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/5b88874a-91a1-4ca0-9101-f09b2f3ccaa8) </td>
+  </tr>
+</table>
+
 
 
 ## Description
