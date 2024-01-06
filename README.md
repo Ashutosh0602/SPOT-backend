@@ -1,5 +1,5 @@
 # SPOT
-<img src=![WhatsApp Image 2024-01-06 at 16 03 14](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/3abb14d8-3099-4101-9e4a-2205ded95b26)/>
+<img src=![WhatsApp Image 2024-01-06 at 16 03 14](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/3abb14d8-3099-4101-9e4a-2205ded95b26)/> <img src=![WhatsApp Image 2024-01-06 at 16 03 15 (2)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/0193e23a-eaeb-4e3f-8506-6c0927a66c56)/> <img src=![WhatsApp Image 2024-01-06 at 16 03 16 (1)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/69446230-7d31-495e-ad3c-3a28d4b36433) />
 
 
 
