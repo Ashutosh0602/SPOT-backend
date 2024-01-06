@@ -3,9 +3,7 @@
 ![WhatsApp Image 2024-01-06 at 16 03 15 (2)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/bfbf8d57-14b1-46d3-bf99-3cd7842f1a6a)
 ![WhatsApp Image 2024-01-06 at 16 03 16 (1)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/05da4064-f55c-4cb9-8d4d-cfdd085ed012)
 
-<img src="https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/e466b3e6-86ba-4de8-a9f6-adb0bb5b5d8c">
-<img src="https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/bfbf8d57-14b1-46d3-bf99-3cd7842f1a6a">
-<img src="https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/05da4064-f55c-4cb9-8d4d-cfdd085ed012">
+<img src="https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/e466b3e6-86ba-4de8-a9f6-adb0bb5b5d8c"> <img src="https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/bfbf8d57-14b1-46d3-bf99-3cd7842f1a6a"> <img src="https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/05da4064-f55c-4cb9-8d4d-cfdd085ed012">
 
 
 
