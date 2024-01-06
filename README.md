@@ -1,10 +1,5 @@
 # SPOT
-<table>
-  <tr>
-    <td valign="top"> ![WhatsApp Image 2024-01-06 at 16 03 14](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/caa9c233-4a2b-4fcf-b60e-0671378a10ae) </td>
-    <td valign="top"> ![WhatsApp Image 2024-01-06 at 16 03 15 (2)](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/5b88874a-91a1-4ca0-9101-f09b2f3ccaa8) </td>
-  </tr>
-</table>
+<img src=![WhatsApp Image 2024-01-06 at 16 03 14](https://github.com/Ashutosh0602/SPOT-backend/assets/85889617/3abb14d8-3099-4101-9e4a-2205ded95b26)/>
 
 
 
